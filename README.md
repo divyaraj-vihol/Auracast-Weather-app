@@ -4,12 +4,11 @@ A comprehensive and interactive weather forecasting web application, delivering 
 ---
 ## 🚀 Demo
 
-Here's a quick demonstration of the application in action:
-
-![Weather Forecaster App Demo](assets/Demo.gif)
+[Demo (1)](https://github.com/user-attachments/assets/e338f8bd-42e0-470d-b2de-652215064de6)
 
 
 ## ⚙️Structure
+
 auracast-weather-app/
 ├── .gitignore
 ├── README.md
