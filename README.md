@@ -1,33 +1,10 @@
-# 🌤️ Weather Forecaster
-
-A user-friendly Streamlit application to get current weather conditions and a 5-day forecast for any city worldwide. This enhanced version provides interactive charts, detailed weather metrics, and insightful analysis.
-
 # 🌤️ AuraCast
 
 A comprehensive and interactive weather forecasting web application, delivering real-time and 5-day predictions with dynamic visualizations using Streamlit and Python.
-
 ---
-
-## 🎥 App Demo
-
-See a quick demonstration of AuraCast's features in action:
-
-<div align="center">
-  <iframe 
-    width="700" 
-    height="400" 
-    src="https://www.youtube.com/embed/YOUR_VIDEO_ID" 
-    title="AuraCast Weather App Demo" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen>
-  </iframe>
-</div>
-
+## 🚀 Demo
+![Weather App Demo](assets/Demo.gif)
 ---
-
-## ✨ Features
 
 ## ⚙️Structure
 auracast-weather-app/
