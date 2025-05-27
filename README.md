@@ -8,11 +8,22 @@ A comprehensive and interactive weather forecasting web application, delivering 
 
 ---
 
-## 📸 App Demo
+## 🎥 App Demo
 
-This GIF showcases AuraCast in action, demonstrating its real-time updates and interactive forecast features.
+See a quick demonstration of AuraCast's features in action:
 
-![](./assets/auracast_demo.gif)
+<div align="center">
+  <iframe 
+    width="700" 
+    height="400" 
+    src="https://www.youtube.com/embed/YOUR_VIDEO_ID" 
+    title="AuraCast Weather App Demo" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
