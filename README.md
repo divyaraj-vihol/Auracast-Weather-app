@@ -3,8 +3,11 @@
 A comprehensive and interactive weather forecasting web application, delivering real-time and 5-day predictions with dynamic visualizations using Streamlit and Python.
 ---
 ## 🚀 Demo
-![Weather App Demo](assets/Demo.gif)
----
+
+Here's a quick demonstration of the application in action:
+
+![Weather Forecaster App Demo](assets/Demo.gif)
+
 
 ## ⚙️Structure
 auracast-weather-app/
